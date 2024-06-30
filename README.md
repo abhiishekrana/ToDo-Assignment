@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+                                                                  React To-Do Application
+I have created this todo application using the following technologies:
+->ReactJS
+->Redux (for state management)
+->HTML5
+->CSS3
+->JavaScript (ES6+)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+                                                                Step-by-Step Guide
 
-## Available Scripts
+Step 1: Clone the Repository
+        git clone <repository-url>
+        cd react-todo-app
 
-In the project directory, you can run:
+Step 2: Install the necessary dependencies for the project.
+        npm install
 
-### `npm start`
+Step3: Start the Development Server
+        npm start
+        Open http://localhost:3000 in your web browser to view the application
+Step4: Then i have add all the required feature in the project like:
+        1.Add Tasks: Enter a task in the input field and press Enter or click the Add button to add it to the list.
+        2.View Tasks: See all added tasks displayed in a list format.
+        3.Edit Tasks: Click the Edit button next to a task to modify its content.
+        4.Delete Tasks: Remove unwanted tasks by clicking the Delete button.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ScreenSorts:
+1. HomePage:
+   ![image](https://github.com/abhiishekrana/todo_List_Assignment/assets/73600362/3a66efc6-4297-476c-9728-11d29d21c324)
 
-### `npm test`
+2.Add item to the list
+![image](https://github.com/abhiishekrana/todo_List_Assignment/assets/73600362/a7da10fe-8656-4361-8a1e-048657d266bf)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+3.Update item(For i want to update item1 to item6)
+![image](https://github.com/abhiishekrana/todo_List_Assignment/assets/73600362/8475ea6e-adc6-43be-9e3f-d2d868e61f32)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4.Delete Item(For example i have deleted item 6)
+![image](https://github.com/abhiishekrana/todo_List_Assignment/assets/73600362/e9a1d45b-0e26-4942-8109-f3944c1c30cb)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+   
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
