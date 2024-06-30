@@ -27,18 +27,22 @@ Step4: Then i have add all the required feature in the project like:
 
 ScreenSorts:
 1. HomePage:
-   ![image](https://github.com/abhiishekrana/todo_List_Assignment/assets/73600362/3a66efc6-4297-476c-9728-11d29d21c324)
+  ![image](https://github.com/abhiishekrana/ToDo-Assignment/assets/73600362/a664aa9e-acd3-469b-bb4e-5315fbbd57d6)
+
 
 2.Add item to the list
-![image](https://github.com/abhiishekrana/todo_List_Assignment/assets/73600362/a7da10fe-8656-4361-8a1e-048657d266bf)
+![image](https://github.com/abhiishekrana/ToDo-Assignment/assets/73600362/d871e261-1ccc-4e80-838b-3eb06b372984)
+
 
 
 3.Update item(For i want to update item1 to item6)
-![image](https://github.com/abhiishekrana/todo_List_Assignment/assets/73600362/8475ea6e-adc6-43be-9e3f-d2d868e61f32)
+![image](https://github.com/abhiishekrana/ToDo-Assignment/assets/73600362/e10babb1-d65b-4c38-8316-befd6a387555)
+
 
 
 4.Delete Item(For example i have deleted item 6)
-![image](https://github.com/abhiishekrana/todo_List_Assignment/assets/73600362/e9a1d45b-0e26-4942-8109-f3944c1c30cb)
+![image](https://github.com/abhiishekrana/ToDo-Assignment/assets/73600362/59f3fa56-b5e5-4dc2-a816-5d33b57bea2c)
+
 
 
    
